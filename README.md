@@ -1,16 +1,3 @@
-# MLWorkshop1
-
----
-title: "Introduction to Hands-On Machine Learning"
-author: "Ramya Koya"
-date: "11/30/18"
-output: ioslides_presentation
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Agenda 
 
 - What is Machine Learning?
